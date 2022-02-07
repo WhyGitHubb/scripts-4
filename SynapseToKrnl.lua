@@ -209,7 +209,7 @@ local functions = {
 		consoleprint("]: ","white")
 		consoleprint(msg.."\n",consolecolor)
 	end,
-	['rconsolename'] = function(title)
+	['rconsolename's] = function(title)
 		consolecreate()
 		consolesettitle(title)
 	end,]]
